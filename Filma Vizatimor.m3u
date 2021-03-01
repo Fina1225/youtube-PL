@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:5439,streaming?t=1
+http://localhost:54321/streaming?t=1
+#EXTINF:5294,streaming?t=2
+http://localhost:54321/streaming?t=2
+#EXTINF:5475,streaming?t=3
+http://localhost:54321/streaming?t=3
+#EXTINF:5472,streaming?t=4
+http://localhost:54321/streaming?t=4
+#EXTINF:1335,streaming?t=5
+http://localhost:54321/streaming?t=5
